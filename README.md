@@ -1,6 +1,6 @@
 # 🎬 ShowTime (Updated Version)  
 
-🚀 A feature-rich **BookMyShow Clone** with **payment integration**, an **internal wallet**, and enhanced automation using **Selenium**.
+🚀 A feature-rich **BookMyShow Clone** with **payment integration**, an **internal wallet**
 
 ## 📽️ Demo  
  
@@ -13,7 +13,6 @@ https://youtu.be/ZYRRI2xjh7U
 ✅ **Movie Ticket Booking System** 🎟️  
 ✅ **Integrated Payment Gateway** (Demo Razorpay for transactions) 💳  
 ✅ **Internal Wallet System** 🏦 (Add money, track balance, and auto-deduct payments)  
-✅ **Selenium Automation** 🤖 (Automated testing for login and bookings)  
 ✅ **User Authentication** 🔐 (Secure login & session handling)  
 
 ---
